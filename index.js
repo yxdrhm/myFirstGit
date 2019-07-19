@@ -1,1 +1,7 @@
-console.log(5+10);
+
+console.log("Hellow World");
+function addnumber(a,b){
+    return a+b;
+}
+addnumber(5,10);
+
